@@ -1,0 +1,12 @@
+C:\Users\Mateusz\Downloads\Zaawansowane_Programowanie_Internetowe_N-kolokwium\Zaawansowane_Programowanie_Internetowe_N-kolokwium\Template\Kolokwium\Kolokwium.Model\bin\Debug\net6.0\Kolokwium.Model.deps.json
+C:\Users\Mateusz\Downloads\Zaawansowane_Programowanie_Internetowe_N-kolokwium\Zaawansowane_Programowanie_Internetowe_N-kolokwium\Template\Kolokwium\Kolokwium.Model\bin\Debug\net6.0\Kolokwium.Model.dll
+C:\Users\Mateusz\Downloads\Zaawansowane_Programowanie_Internetowe_N-kolokwium\Zaawansowane_Programowanie_Internetowe_N-kolokwium\Template\Kolokwium\Kolokwium.Model\bin\Debug\net6.0\Kolokwium.Model.pdb
+C:\Users\Mateusz\Downloads\Zaawansowane_Programowanie_Internetowe_N-kolokwium\Zaawansowane_Programowanie_Internetowe_N-kolokwium\Template\Kolokwium\Kolokwium.Model\obj\Debug\net6.0\Kolokwium.Model.csproj.AssemblyReference.cache
+C:\Users\Mateusz\Downloads\Zaawansowane_Programowanie_Internetowe_N-kolokwium\Zaawansowane_Programowanie_Internetowe_N-kolokwium\Template\Kolokwium\Kolokwium.Model\obj\Debug\net6.0\Kolokwium.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mateusz\Downloads\Zaawansowane_Programowanie_Internetowe_N-kolokwium\Zaawansowane_Programowanie_Internetowe_N-kolokwium\Template\Kolokwium\Kolokwium.Model\obj\Debug\net6.0\Kolokwium.Model.AssemblyInfoInputs.cache
+C:\Users\Mateusz\Downloads\Zaawansowane_Programowanie_Internetowe_N-kolokwium\Zaawansowane_Programowanie_Internetowe_N-kolokwium\Template\Kolokwium\Kolokwium.Model\obj\Debug\net6.0\Kolokwium.Model.AssemblyInfo.cs
+C:\Users\Mateusz\Downloads\Zaawansowane_Programowanie_Internetowe_N-kolokwium\Zaawansowane_Programowanie_Internetowe_N-kolokwium\Template\Kolokwium\Kolokwium.Model\obj\Debug\net6.0\Kolokwium.Model.csproj.CoreCompileInputs.cache
+C:\Users\Mateusz\Downloads\Zaawansowane_Programowanie_Internetowe_N-kolokwium\Zaawansowane_Programowanie_Internetowe_N-kolokwium\Template\Kolokwium\Kolokwium.Model\obj\Debug\net6.0\Kolokwium.Model.dll
+C:\Users\Mateusz\Downloads\Zaawansowane_Programowanie_Internetowe_N-kolokwium\Zaawansowane_Programowanie_Internetowe_N-kolokwium\Template\Kolokwium\Kolokwium.Model\obj\Debug\net6.0\refint\Kolokwium.Model.dll
+C:\Users\Mateusz\Downloads\Zaawansowane_Programowanie_Internetowe_N-kolokwium\Zaawansowane_Programowanie_Internetowe_N-kolokwium\Template\Kolokwium\Kolokwium.Model\obj\Debug\net6.0\Kolokwium.Model.pdb
+C:\Users\Mateusz\Downloads\Zaawansowane_Programowanie_Internetowe_N-kolokwium\Zaawansowane_Programowanie_Internetowe_N-kolokwium\Template\Kolokwium\Kolokwium.Model\obj\Debug\net6.0\ref\Kolokwium.Model.dll

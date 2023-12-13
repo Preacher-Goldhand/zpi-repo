@@ -1,0 +1,28 @@
+{
+    "compilerOptions": {
+      "experimentalDecorators": true, // add this line
+      "emitDecoratorMetadata": true, // add this line
+      "target": "ES2022",
+      "lib": [
+        "dom",
+        "dom.iterable",
+        "esnext"
+      ],
+      "strictNullChecks": true,
+      "allowJs": true,
+      "skipLibCheck": true,
+      "esModuleInterop": true,
+      "allowSyntheticDefaultImports": true,
+      "strict": true,
+      "forceConsistentCasingInFileNames": true,
+      "module": "esnext",
+      "moduleResolution": "node",
+      "resolveJsonModule": true,
+      "isolatedModules": true,
+      "noEmit": true,
+      "jsx": "react"
+    },
+    "include": [
+      "src"
+    ]
+  }
