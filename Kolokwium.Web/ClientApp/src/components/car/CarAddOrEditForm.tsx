@@ -41,6 +41,7 @@ export const CarAddOrEditForm = (props: IProps) => {
 
     const onSubmit = async (e: React.FormEvent<HTMLFormElement>) => {
         e.preventDefault();
+        console.log('Submit button clicked');
         const response = await axios.post<ICar>("/api/Car", state);
         if (response.status === 200) {
             setState({

@@ -13,9 +13,9 @@ export const CarGrid = () => {
 
     const columns: GridColDef[] = [
         {field: 'id', headerName: 'id', width: 20},
-        {field: 'name', headerName: 'name', width: 20},
-        {field: 'brand', headerName: 'brand', width: 20},
-        {field: 'yearOfProduction', headerName: 'yearOfProduction', width: 20},
+        {field: 'model', headerName: 'model', width: 200},
+        {field: 'brand', headerName: 'brand', width: 200},
+        {field: 'yearOfProduction', headerName: 'yearOfProduction', width: 200},
         {
             field: "edit",
             headerName: "Edit",
@@ -46,7 +46,7 @@ export const CarGrid = () => {
         <div>
             <Link to={`/car/add`} className="btn btn-primary">Add</Link>
             <div className="car-grid">
-                <div>
+                <div style={{height:400, width:'100%'}}>
                     <DataGrid
                         rows={state.cars}
                         columns={columns}

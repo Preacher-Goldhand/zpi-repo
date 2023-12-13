@@ -23,7 +23,7 @@ namespace Kolokwium.Services.ConcreteServices
 
                 var carEntity = Mapper.Map<Car>(addOrUpdateCarVm);
 
-                if (addOrUpdateCarVm.Id.HasValue && addOrUpdateCarVm.Id == 0)
+                if (addOrUpdateCarVm.Id.HasValue || addOrUpdateCarVm.Id == 0)
                     DbContext.Cars.Update(carEntity);
                 else
                     DbContext.Cars.Add(carEntity);
